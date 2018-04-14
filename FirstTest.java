@@ -4,6 +4,9 @@ public class FirstTest{
       System.out.println("HELOO");
       System.out.println("First Change");
       System.out.println("Second Change");
+    
+      int a;
+    
       }
   }    
   
