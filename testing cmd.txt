@@ -1,1 +1,4 @@
 this is to test cmd
+ 'testing cmd.txt'
+ 'testing cmd.txt'
+ 'testing cmd.txt'
